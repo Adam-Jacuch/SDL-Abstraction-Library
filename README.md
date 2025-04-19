@@ -46,7 +46,7 @@ sudo dnf install gcc-c++ SDL2-devel
 
     ```
     git clone https://github.com/Adam-Jacuch/SDL-Abstraction-Library.git
-    cd SAL
+    cd SDL-Abstraction-Library
     ```
 
 2.  Copy `SAL.h` into your project's include directory (or reference it directly).
